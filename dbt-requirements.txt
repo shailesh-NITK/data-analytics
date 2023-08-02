@@ -1,0 +1,2 @@
+pytz
+dbt-snowflake==1.5.2
